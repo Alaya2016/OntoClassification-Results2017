@@ -22,7 +22,8 @@ _Timeout: 180000 ms
 
 _Memory limit: 8GB
 
-_Hardware Description: • Intel Core I7-4470 CPU@3,4GHz x 8 • Java version 1.7.0_18 • 32GB RAM, 12GB RAM are given for each the reasoner
+_Hardware Description: • Intel Core I7-4470 CPU@3,4GHz x 8 • Java version 1.7.0_18 • 32GB RAM, 8GB RAM are given for each the reasoner
 
+_ The zip evaluation-results-AlayaORE2017.rar contains all the result files outputed by the ORE Framework.
 _ The file ORE2017_Ranking_TestTrainOntos_ALAYA.xls describs the classification runtime and termination state label for each reasoner 
 and for every processed ontology. The file contains also the feature vectors computed for every ontology in the train and test sets.
